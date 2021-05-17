@@ -1,2 +1,5 @@
 # Algoritmos_Avancados
-Repositório de Estudos de Algoritmos Avançados
+
+Repositório para estudos de Algoritmos Avançados em Java
+
+
